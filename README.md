@@ -1,6 +1,6 @@
 # Landing Page Vanbook
 
-Landing Page de uma livraria fictícia com planos de assinatura, utilizando css responsivo, ui/ux design e comportamentos com Javascript e jQuery
+Landing Page de uma livraria fictícia com planos de assinatura, utilizando css responsivo e animação com scroll, ui/ux design e comportamentos com Javascript e jQuery
 
 ## Contact
 
