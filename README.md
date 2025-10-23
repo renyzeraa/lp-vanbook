@@ -2,6 +2,8 @@
 
 Landing Page de uma livraria fictícia com planos de assinatura, utilizando css responsivo e animação com scroll, ui/ux design e comportamentos com Javascript e jQuery
 
+<a href="https://renyzeraa.github.io/lp-vanbook" target="_blank"> Deploy 🚀 </a>
+
 ## Contact
 
 <img align="left" src="https://avatars.githubusercontent.com/renyzeraa?size=100">
